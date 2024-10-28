@@ -1,0 +1,3 @@
+In this report, we looked at the math and reading scores in the district, compared by school size, per student budget, and charter status.
+
+The most stark differences were in the size of the school and whether or not it was a charter school. Schools with 2000 students or fewer had much higher passing rates in both reading and math. Overall, approximately 90% of students in Small or Medium sized schools were passing both reading and math, compared to only 58% in large schools. Similarly, charter schools had an overall passing rate of 90%, compared to district schools at 54%.
